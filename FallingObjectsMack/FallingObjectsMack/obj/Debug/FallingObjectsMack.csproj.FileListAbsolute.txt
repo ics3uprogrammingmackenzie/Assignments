@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\bin\Debug\FallingObjectsMack.exe.config
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\bin\Debug\FallingObjectsMack.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\bin\Debug\FallingObjectsMack.pdb
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\obj\Debug\FallingObjectsMack.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\obj\Debug\FallingObjectsMack.frmFallingObjects.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\obj\Debug\FallingObjectsMack.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\obj\Debug\FallingObjectsMack.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\obj\Debug\FallingObjectsMack.exe
+N:\StuShare\Semester 2 - Winter 2019\ICS3U Programming\Brown-Plourde, MacKenzie (s274575)\Unit 1 (Problem Solving)\FallingObjectsMack\FallingObjectsMack\obj\Debug\FallingObjectsMack.pdb
